@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.Sc. in Mathematics, University of Bonn, 2021
-  * Thesis: "Stable pair invariants after Pandharipande-Thomas", supervised by Daniel Huybrechts
+* PhD student in Mathematics, Max-Planck-Institute for Mathematics in the Sciences, Leipzig, since 2022
 * MASt in Pure Mathematics, University of Cambridge, 2022
   * Essay: "Homological Mirror Symmetry for $\mathbb{C}^*$", supervised by Jack Smith
-* PhD student in Mathematics, Max-Planck-Institute for Mathematics in the Sciences, Leipzig, since 2022
+* B.Sc. in Mathematics, University of Bonn, 2021
+  * Thesis: ["Stable pair invariants after Pandharipande-Thomas"](/files/paper1.pdf), supervised by Daniel Huybrechts
 
 
 Teaching
