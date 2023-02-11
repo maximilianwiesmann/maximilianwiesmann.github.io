@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+# title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -12,7 +12,9 @@ redirect_from:
 Education
 ======
 * B.Sc. in Mathematics, University of Bonn, 2021
+  * Thesis: "Stable pair invariants after Pandharipande-Thomas", supervised by Daniel Huybrechts
 * MASt in Pure Mathematics, University of Cambridge, 2022
+  * Essay: "Homological Mirror Symmetry for $\mathbb{C}^*$", supervised by Jack Smith
 * PhD student in Mathematics, Max-Planck-Institute for Mathematics in the Sciences, Leipzig, since 2022
 
 
@@ -20,11 +22,11 @@ Teaching
 ======
 * Winter term 2020/21: Tutor
   * Lineare Algebra 1
-  * Mathematisches Institut Universitaet Bonn
+  * Mathematisches Institut Universität Bonn
 
 * Winter term 2019/20: Tutor
-  * Grundzuege der Mathematik
-  * Mathematisches Institut Universitaet Bonn
+  * Grundzüge der Mathematik
+  * Mathematisches Institut Universität Bonn
 
 
 Work experience
