@@ -26,7 +26,6 @@ group :jekyll_plugins do
   gem 'hawkins'
 end
 
+# gem "minimal-mistakes-jekyll"
 gem "jekyll-remote-theme"
-
-gem "minimal-mistakes-jekyll"
 
