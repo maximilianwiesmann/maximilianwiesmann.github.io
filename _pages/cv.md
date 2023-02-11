@@ -13,7 +13,7 @@ Education
 ======
 * B.Sc. in Mathematics, University of Bonn, 2021
 * MASt in Pure Mathematics, University of Cambridge, 2022
-* Ph.D student in Mathematics, Max-Planck-Institute for Mathematics in the Sciences, Leipzig, since 2022
+* PhD student in Mathematics, Max-Planck-Institute for Mathematics in the Sciences, Leipzig, since 2022
 
 
 Teaching
