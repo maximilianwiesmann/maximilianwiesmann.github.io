@@ -11,23 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Mathematics, University of Bonn, 2021
+* MASt in Pure Mathematics, University of Cambridge, 2022
+* Ph.D student in Mathematics, Max-Planck-Institute for Mathematics in the Sciences, Leipzig, since 2022
+
+
+Teaching
+======
+* Winter term 2020/21: Tutor
+  * Lineare Algebra 1
+  * Mathematisches Institut Universitaet Bonn
+
+* Winter term 2019/20: Tutor
+  * Grundzuege der Mathematik
+  * Mathematisches Institut Universitaet Bonn
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021: Quantum Science Summer Intern
+  * Riverlane, Cambridge, UK
+  * Research in Quantum Error Correction Codes
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
@@ -56,4 +63,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
