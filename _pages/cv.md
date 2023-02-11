@@ -15,7 +15,7 @@ Education
 * MASt in Pure Mathematics, University of Cambridge, 2022
   * Essay: "Homological Mirror Symmetry for $\mathbb{C}^*$", supervised by Jack Smith
 * B.Sc. in Mathematics, University of Bonn, 2021
-  * Thesis: ["Stable pair invariants after Pandharipande-Thomas"](/files/paper1.pdf), supervised by Daniel Huybrechts
+  * Thesis: ["Stable pair invariants after Pandharipande-Thomas"](/files/bachelor_thesis.pdf), supervised by Daniel Huybrechts
 
 
 Teaching
