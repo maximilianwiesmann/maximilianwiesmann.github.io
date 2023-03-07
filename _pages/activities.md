@@ -10,7 +10,7 @@ author_profile: true
 
 Upcoming Activities
 ======
-* Mar 13 2023: [3-way Interaction Seminar](https://3-way-interaction.de), MPI MiS Leipzig
+* Mar 13 2023: [3-way Interaction Seminar](https://3-way-interaction.de){:target="_blank"}, MPI MiS Leipzig
 * Apr 03-04 2023: [Solving Hard Polynomial Systems](https://www.mis.mpg.de/calendar/conferences/2023/shps23.html), MPI MiS Leipzig
 * Apr 26-28 2023: [Graduate Student Meeting on Applied Algebra and Combinatorics](https://sites.google.com/view/applied-alg-comb-2023/), KTH Stockholm and Stockholm University
 * Sep 18 - Oct 14 2023: [Algebraic Statistics and Our Changing World](https://www.imsi.institute/activities/algebraic-statistics-and-our-changing-world/), IMSI Chicago
