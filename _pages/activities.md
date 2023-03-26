@@ -10,7 +10,6 @@ author_profile: true
 
 Upcoming Activities
 ======
-* Mar 13 2023: [3-way Interaction Seminar](https://3-way-interaction.de){:target="_blank"}, MPI MiS Leipzig
 * Apr 03-04 2023: [Solving Hard Polynomial Systems](https://www.mis.mpg.de/calendar/conferences/2023/shps23.html){:target="_blank"}, MPI MiS Leipzig
 * Apr 26-28 2023: [Graduate Student Meeting on Applied Algebra and Combinatorics](https://sites.google.com/view/applied-alg-comb-2023/){:target="_blank"}, KTH Stockholm and Stockholm University
 * Sep 18 - Oct 14 2023: [Algebraic Statistics and Our Changing World](https://www.imsi.institute/activities/algebraic-statistics-and-our-changing-world/){:target="_blank"}, IMSI Chicago
@@ -18,6 +17,7 @@ Upcoming Activities
 
 Past Activities
 ======
+* Mar 13 2023: [3-way Interaction Seminar](https://3-way-interaction.de){:target="_blank"}, MPI MiS Leipzig
 * Feb 20 2023: [3-way Interaction Seminar](https://3-way-interaction.de){:target="_blank"}, TU Berlin
 * Feb 09-10 2023: [Northern German Algebraic Geometry Seminar (NoGAGS)](https://www.math.hu-berlin.de/~www-ag/NoGAGS.html){:target="_blank"}, HU Berlin
 * Jan 16 2023: [3-way Interaction Seminar](https://3-way-interaction.de){:target="_blank"}, MPI MiS Leipzig
@@ -27,5 +27,6 @@ Past Activities
 
 Talks
 ======
-* Mar 08 2023: [Toric Fiber Products](https://www.mis.mpg.de/calendar/lectures/2023/abstract-35531.html){:target="_blank"}, Seminar on Nonlinear Algebra, MPI MiS Leipzig
+* Apr 20 2023: [Maximum Likelihood Geometry](https://www.mis.mpg.de/calendar/lectures/2023/abstract-35587.html), Reading Group in Algebraic Statistics, MPI MiS Leipzig
+* Mar 14 2023: [Introduction to Hilbert Schemes](https://www.mis.mpg.de/calendar/lectures/2023/abstract-35559.html), Reading Group on Hilbert Schemes, MPI MiS Leipzig
 * Dec 07 2022: [Homological Mirror Symmetry for 1-dimensional Toric Varieties](https://www.mis.mpg.de/calendar/lectures/2022/abstract-35008.html){:target="_blank"}, Seminar on Nonlinear Algebra, MPI MiS Leipzig
