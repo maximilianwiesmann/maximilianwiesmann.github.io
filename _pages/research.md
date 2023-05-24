@@ -18,4 +18,4 @@ author_profile: true
 
 Preprints
 ======
-* *Toric Fiber Products in Geometric Modeling* (2023). Joint with Eliana Duarte and Benjamin Hollering. [arXiv:2303.08754](https://arxiv.org/abs/2303.08754)
+* *Toric Fiber Products in Geometric Modeling* (2023). Joint with Eliana Duarte and Benjamin Hollering. [arXiv:2303.08754](https://arxiv.org/abs/2303.08754). To appear in Proceedings of 6th International Conference on Geometric Science of Information GSI'23.
