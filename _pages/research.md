@@ -18,7 +18,8 @@ author_profile: true
 
 Preprints
 ======
-* *Algebraic Geometry of Quantum Graphical Models* (2023). Joint with Eliana Duarte and Dmitrii Pavlov. [arXiv:2308.11538](https://arxiv.org/abs/2308.11538).
+* *Geometry of Polynomial Neural Networks* (2024). Joint with Kaie Kubjas and Jiayi Li. [arXiv:2402.00949](https://arxiv.org/abs/2402.00949).
+* *Algebraic Geometry of Quantum Graphical Models* (2023). Joint with Eliana Duarte and Dmitrii Pavlov. [arXiv:2308.11538](https://arxiv.org/abs/2308.11538). Submitted to Advances in Applied Mathematics.
 
 
 Published
