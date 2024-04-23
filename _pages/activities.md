@@ -10,17 +10,20 @@ author_profile: true
 
 Upcoming Activities
 ======
-* Feb 12-16 2024: [Positive Geometry in Particle Physics and Cosmology](https://www.mis.mpg.de/events/series/positive-geometry-in-particle-physics-and-cosmology){:target="_blank"}, MPI MiS Leipzig
-* Mar 08-09 2024: [SPIN 2030 Science Festival](https://spin2030.com/en/veranstaltung/spin-2030-science-festival/){:target="_blank"}, Technische Sammlungen Dresden
-* April 10-12 2024: [Graduate Student Meeting in Applied Algebra and Combinatorics](https://sites.google.com/view/gsmaac24/){:target="_blank"}, Berlin
+* May 03-04 2024: [AlToGeLiS 2024](https://altogelis.com/altogelis-2024.html){:target="_blank"}, MPI-CBG Dresden
 * May 13-17 2024: [Combinatorial Algebraic Geometry from Physics](https://www.mis.mpg.de/events/series/combinatorial-algebraic-geometry-from-physics){:target="_blank"}, MPI MiS Leipzig
 * May 22-24 2024: [IMPRS Combo II](https://www.mis.mpg.de/events/series/imprs-combo-ii){:target="_blank"}, MPI MiS Leipzig
-* July 15-19 2024: [Summer School in Algebraic Combinatorics](https://www.mis.mpg.de/events/series/summer-school-in-algebraic-combinatorics){:target="_blank"}, MPI MiS Leipzig
-* August 12-16 2024: [World Congress in Probability and Statistics](https://www.bernoulli-ims-worldcongress2024.org){:target="_blank"}, Bochum
+* Jul 15-19 2024: [Summer School in Algebraic Combinatorics](https://www.mis.mpg.de/events/series/summer-school-in-algebraic-combinatorics){:target="_blank"}, MPI MiS Leipzig
+* Jul 29 - Aug 02: [MEGA 2024](https://www.mis.mpg.de/de/events/series/mega-2024){:target="_blank"}, Leipzig
+* Aug 12-16 2024: [World Congress in Probability and Statistics](https://www.bernoulli-ims-worldcongress2024.org){:target="_blank"}, Bochum
+* Sep 09-13 2024: [Summer School on Real Algebraic Geometry and Hodge Theory](https://tu-dresden.de/mn/math/geometrie/kummer/die-professur/copy_of_profil){:target="_blank"}, TU Dresden
 
 
 Past Activities
 ======
+* April 10-12 2024: [Graduate Student Meeting in Applied Algebra and Combinatorics](https://sites.google.com/view/gsmaac24/){:target="_blank"}, Berlin
+* Mar 08-09 2024: [SPIN 2030 Science Festival](https://spin2030.com/en/veranstaltung/spin-2030-science-festival/){:target="_blank"}, Technische Sammlungen Dresden
+* Feb 12-16 2024: [Positive Geometry in Particle Physics and Cosmology](https://www.mis.mpg.de/events/series/positive-geometry-in-particle-physics-and-cosmology){:target="_blank"}, MPI MiS Leipzig
 * Feb 01-02 2024: [European Workshop on Algebraic Statistics and Graphical Models](https://sites.google.com/view/euroalgstat2024){:target="_blank"}, Garmisch-Partenkirchen
 * Dec 05 2023: [Mathematics in Biology Day](https://www.mis.mpg.de/events/series/mathematics-in-biology-day){:target="_blank"}, MPI MiS Leipzig
 * Oct 16-18 2023: [Chow Lectures 2023](https://www.mis.mpg.de/events/series/chow-lectures-2023){:target="_blank"}, MPI MiS Leipzig
@@ -38,7 +41,11 @@ Past Activities
 
 Talks
 ======
-* Feb 15 2025: [Hilbert-Mumford Criterion](https://leokayser.github.io/nahc/){:target="_blank"}, [Reading Group on Nonabelian Hodge Correspondence and Geometric Invariant Theory](https://leokayser.github.io/nahc/){:target="_blank"}, MPI MiS Leipzig
+* Jun 03 2024: Irreducible and Injective Resolutions, [Reading Group on Combinatorial Commutative Algebra](https://www.mis.mpg.de/events/event/reading-group-on-combinatorial-commutative-algebra){:target="_blank"}, MPI MiS Leipzig
+* Apr 11 2024: [Geometry of Polynomial Neural Networks](https://sites.google.com/view/gsmaac24/minicourse-talk-abstracts#h.mfoojpw4fm3j){:target="_blank"}, [Graduate Student Meeting in Applied Algebra and Combinatorics](https://sites.google.com/view/gsmaac24/){:target="_blank"}, Berlin
+* Apr 09 2024: Euler Charakteristik oder Warum es auf der Erde immer irgendwo windstill ist, Talk for High School Students, MPI MiS Leipzig
+* Apr 08 2024: [Adversarial Regularization Regimes in Classification Tasks](https://sites.google.com/unipi.it/sslapdys/home){:target="_blank"}, Seminar of Statistical Learning and Probability/Dynamical Systems, Leipzig University
+* Feb 15 2024: [Hilbert-Mumford Criterion](https://leokayser.github.io/nahc/){:target="_blank"}, [Reading Group on Nonabelian Hodge Correspondence and Geometric Invariant Theory](https://leokayser.github.io/nahc/){:target="_blank"}, MPI MiS Leipzig
 * Jan 17 2024: Scattering Equations and Pushforward, Reading Group on Stringy Canonical Forms, MPI MiS Leipzig
 * Dec 19 2023: [Algebraic Geometry of Quantum Graphical Models](https://www.math.ovgu.de/math_media/Forschung/IAG/Oberseminar/wiesmann-p-18772.pdf){:target="_blank"}, OvGU Magdeburg 
 * Dec 04 2023: Euler Charakteristik oder Warum es auf der Erde immer irgendwo windstill ist, Talk for High School Students, MPI MiS Leipzig
