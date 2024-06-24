@@ -18,7 +18,8 @@ author_profile: true
 
 Preprints
 ======
-* *Geometry of Polynomial Neural Networks* (2024). Joint with Kaie Kubjas and Jiayi Li. [arXiv:2402.00949](https://arxiv.org/abs/2402.00949).
+* *Pathological Regularization Regimes in Classification Tasks*. Joint with Paul Larsen. [arXiv:2406.14731](https://arxiv.org/abs/2406.14731).
+* *Geometry of Polynomial Neural Networks* (2024). Joint with Kaie Kubjas and Jiayi Li. [arXiv:2402.00949](https://arxiv.org/abs/2402.00949). Submitted to Algebraic Statistics.
 * *Algebraic Geometry of Quantum Graphical Models* (2023). Joint with Eliana Duarte and Dmitrii Pavlov. [arXiv:2308.11538](https://arxiv.org/abs/2308.11538). Submitted to Advances in Applied Mathematics.
 
 
