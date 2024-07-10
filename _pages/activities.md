@@ -10,9 +10,6 @@ author_profile: true
 
 Upcoming Activities
 ======
-* May 03-04 2024: [AlToGeLiS 2024](https://altogelis.com/altogelis-2024.html){:target="_blank"}, MPI-CBG Dresden
-* May 13-17 2024: [Combinatorial Algebraic Geometry from Physics](https://www.mis.mpg.de/events/series/combinatorial-algebraic-geometry-from-physics){:target="_blank"}, MPI MiS Leipzig
-* May 22-24 2024: [IMPRS Combo II](https://www.mis.mpg.de/events/series/imprs-combo-ii){:target="_blank"}, MPI MiS Leipzig
 * Jul 15-19 2024: [Summer School in Algebraic Combinatorics](https://www.mis.mpg.de/events/series/summer-school-in-algebraic-combinatorics){:target="_blank"}, MPI MiS Leipzig
 * Jul 29 - Aug 02: [MEGA 2024](https://www.mis.mpg.de/de/events/series/mega-2024){:target="_blank"}, Leipzig
 * Aug 12-16 2024: [World Congress in Probability and Statistics](https://www.bernoulli-ims-worldcongress2024.org){:target="_blank"}, Bochum
@@ -21,11 +18,16 @@ Upcoming Activities
 
 Past Activities
 ======
-* April 10-12 2024: [Graduate Student Meeting in Applied Algebra and Combinatorics](https://sites.google.com/view/gsmaac24/){:target="_blank"}, Berlin
+* Jun 24-27 2024: Research visit at ETH-ITS, Zürich
+* May 22-24 2024: I was co-organising the [IMPRS Combo II Workshop](https://www.mis.mpg.de/de/events/series/imprs-combo-ii) on Numerics in Algebra and Analysis, MPI MiS Leipzig
+* May 13-17 2024: [Combinatorial Algebraic Geometry from Physics](https://www.mis.mpg.de/events/series/combinatorial-algebraic-geometry-from-physics){:target="_blank"}, MPI MiS Leipzig
+* May 03-04 2024: [AlToGeLiS 2024](https://altogelis.com/altogelis-2024.html){:target="_blank"}, MPI-CBG Dresden
+* Apr 10-12 2024: [Graduate Student Meeting in Applied Algebra and Combinatorics](https://sites.google.com/view/gsmaac24/){:target="_blank"}, Berlin
 * Mar 08-09 2024: [SPIN 2030 Science Festival](https://spin2030.com/en/veranstaltung/spin-2030-science-festival/){:target="_blank"}, Technische Sammlungen Dresden
 * Feb 12-16 2024: [Positive Geometry in Particle Physics and Cosmology](https://www.mis.mpg.de/events/series/positive-geometry-in-particle-physics-and-cosmology){:target="_blank"}, MPI MiS Leipzig
 * Feb 01-02 2024: [European Workshop on Algebraic Statistics and Graphical Models](https://sites.google.com/view/euroalgstat2024){:target="_blank"}, Garmisch-Partenkirchen
 * Dec 05 2023: [Mathematics in Biology Day](https://www.mis.mpg.de/events/series/mathematics-in-biology-day){:target="_blank"}, MPI MiS Leipzig
+* Nov 01-18 2023: Research visit at Universidade do Porto
 * Oct 16-18 2023: [Chow Lectures 2023](https://www.mis.mpg.de/events/series/chow-lectures-2023){:target="_blank"}, MPI MiS Leipzig
 * Sep 18 - Oct 14 2023: [Algebraic Statistics and Our Changing World](https://www.imsi.institute/activities/algebraic-statistics-and-our-changing-world/){:target="_blank"}, IMSI Chicago
 * Aug 30 - Sep 1 2023: [GSI'23 6th International Conference on Geometric Science of Information](https://conference-gsi.org){:target="_blank"}, Saint-Malo
@@ -63,5 +65,6 @@ Talks
 
 Posters
 ======
+* [What is Algebraic Statistics?](/files/Poster_AlgStats.pdf), Meeting of the Scientific Advisory Board, MPI MiS Leipzig, Jun 19 2024
 * [Algebraic Geometry of Quantum Graphical Models](/files/Poster_QGM_Garmisch.pdf), European Workshop on Algebraic Statistics and Graphical Models, Garmisch-Partenkirchen, Feb 01-02 2024
 * [Toric Fiber Products in Geometric Modeling](/files/Poster_Stockholm_TFP.pdf), Graduate Student Meeting on Applied Algebra and Combinatorics, KTH Stockholm, April 26-28 2023
