@@ -18,7 +18,9 @@ author_profile: true
 
 Preprints
 ======
-* *Pathological Regularization Regimes in Classification Tasks*. Joint with Paul Larsen. [arXiv:2406.14731](https://arxiv.org/abs/2406.14731).
+* *Euler Stratifications of Hypersurface Families* (2024). Joint with Simon Telen. [arXiv:2407.18176](https://arxiv.org/abs/2407.18176).
+  * This paper is accompanied by the Julia software package [EulerStratifications.jl](https://github.com/maximilianwiesmann/EulerStratifications.jl).
+* *Pathological Regularization Regimes in Classification Tasks* (2024). Joint with Paul Larsen. [arXiv:2406.14731](https://arxiv.org/abs/2406.14731).
 * *Geometry of Polynomial Neural Networks* (2024). Joint with Kaie Kubjas and Jiayi Li. [arXiv:2402.00949](https://arxiv.org/abs/2402.00949). Submitted to Algebraic Statistics.
 * *Algebraic Geometry of Quantum Graphical Models* (2023). Joint with Eliana Duarte and Dmitrii Pavlov. [arXiv:2308.11538](https://arxiv.org/abs/2308.11538). Submitted to Advances in Applied Mathematics.
 
