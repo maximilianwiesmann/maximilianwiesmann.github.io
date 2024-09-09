@@ -88,7 +88,7 @@ author:
   location         : "MPI MiS Leipzig"
   employer         : # "MPI MiS"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=sELYyWkAAAAJ&hl=en&oi=ao"
   email            : "wiesmann@mis.mpg.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
