@@ -10,14 +10,15 @@ author_profile: true
 
 Upcoming Activities
 ======
-* Jul 15-19 2024: [Summer School in Algebraic Combinatorics](https://www.mis.mpg.de/events/series/summer-school-in-algebraic-combinatorics){:target="_blank"}, MPI MiS Leipzig
-* Jul 29 - Aug 02: [MEGA 2024](https://www.mis.mpg.de/de/events/series/mega-2024){:target="_blank"}, Leipzig
-* Aug 12-16 2024: [World Congress in Probability and Statistics](https://www.bernoulli-ims-worldcongress2024.org){:target="_blank"}, Bochum
-* Sep 09-13 2024: [Summer School on Real Algebraic Geometry and Hodge Theory](https://tu-dresden.de/mn/math/geometrie/kummer/die-professur/copy_of_profil){:target="_blank"}, TU Dresden
+* Sep 11-13 2024: [Kick-Off Combinatorial Synergies](https://www.math-conf.uni-osnabrueck.de/combinatorial-synergies/){:target="_blank"}, Osnabrück
+* Sep 23-27 2024: Research visit at ETH-ITS, Zürich
 
 
 Past Activities
 ======
+* Aug 12-16 2024: [World Congress in Probability and Statistics](https://www.bernoulli-ims-worldcongress2024.org){:target="_blank"}, Bochum
+* Jul 29 - Aug 02: [MEGA 2024](https://www.mis.mpg.de/de/events/series/mega-2024){:target="_blank"}, Leipzig
+* Jul 15-19 2024: [Summer School in Algebraic Combinatorics](https://www.mis.mpg.de/events/series/summer-school-in-algebraic-combinatorics){:target="_blank"}, MPI MiS Leipzig
 * Jun 24-27 2024: Research visit at ETH-ITS, Zürich
 * May 22-24 2024: I was co-organising the [IMPRS Combo II Workshop](https://www.mis.mpg.de/de/events/series/imprs-combo-ii) on Numerics in Algebra and Analysis, MPI MiS Leipzig
 * May 13-17 2024: [Combinatorial Algebraic Geometry from Physics](https://www.mis.mpg.de/events/series/combinatorial-algebraic-geometry-from-physics){:target="_blank"}, MPI MiS Leipzig
@@ -43,6 +44,8 @@ Past Activities
 
 Talks
 ======
+* Sep 18 2024: [Euler Stratifications of Hypersurface Families](https://www.mis.mpg.de/events/event/euler-stratifications-of-hypersurface-families){:target="_blank"}, Seminar on Nonlinear Algebra, MPI MiS Leipzig
+* Aug 12 2024: Algebraic Geometry of Quantum Graphical Models, [Bernoulli-IMS World Congress in Probability and Statistics](https://www.bernoulli-ims-worldcongress2024.org){:target="_blank"}, Bochum
 * Jun 03 2024: Irreducible and Injective Resolutions, [Reading Group on Combinatorial Commutative Algebra](https://www.mis.mpg.de/events/event/reading-group-on-combinatorial-commutative-algebra){:target="_blank"}, MPI MiS Leipzig
 * Apr 11 2024: [Geometry of Polynomial Neural Networks](https://sites.google.com/view/gsmaac24/minicourse-talk-abstracts#h.mfoojpw4fm3j){:target="_blank"}, [Graduate Student Meeting in Applied Algebra and Combinatorics](https://sites.google.com/view/gsmaac24/){:target="_blank"}, Berlin
 * Apr 09 2024: Euler Charakteristik oder Warum es auf der Erde immer irgendwo windstill ist, Talk for High School Students, MPI MiS Leipzig
