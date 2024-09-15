@@ -10,12 +10,12 @@ author_profile: true
 
 Upcoming Activities
 ======
-* Sep 11-13 2024: [Kick-Off Combinatorial Synergies](https://www.math-conf.uni-osnabrueck.de/combinatorial-synergies/){:target="_blank"}, Osnabrück
 * Sep 23-27 2024: Research visit at ETH-ITS, Zürich
 
 
 Past Activities
 ======
+* Sep 11-13 2024: [Kick-Off Combinatorial Synergies](https://www.math-conf.uni-osnabrueck.de/combinatorial-synergies/){:target="_blank"}, Osnabrück
 * Aug 12-16 2024: [World Congress in Probability and Statistics](https://www.bernoulli-ims-worldcongress2024.org){:target="_blank"}, Bochum
 * Jul 29 - Aug 02: [MEGA 2024](https://www.mis.mpg.de/de/events/series/mega-2024){:target="_blank"}, Leipzig
 * Jul 15-19 2024: [Summer School in Algebraic Combinatorics](https://www.mis.mpg.de/events/series/summer-school-in-algebraic-combinatorics){:target="_blank"}, MPI MiS Leipzig

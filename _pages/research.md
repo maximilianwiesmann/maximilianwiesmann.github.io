@@ -28,3 +28,11 @@ Preprints
 Published
 ======
 * [*Toric Fiber Products in Geometric Modeling*](https://doi.org/10.1007/978-3-031-38271-0_49) (2023). Joint with Eliana Duarte and Benjamin Hollering. [arXiv:2303.08754](https://arxiv.org/abs/2303.08754). Proceedings of 6th International Conference on Geometric Science of Information GSI'23, Springer, 2023.
+
+
+In Preparation
+======
+* *Bicolored Graphs and Bivariate Exponential Integrals*, with Michael Borinsky and Chiara Meroni
+* *Arrangements and Likelihood*, with Thomas Kahle, Lukas Kühne and Bernd Sturmfels
+* *Monotonicity of the ML-Degree for Toric Models*, with Carlos Améndola and Janike Oldekop
+* *Computing Tropicalizations of Engineered Complete Intersections*, with Alexander Esterov and Simon Telen
