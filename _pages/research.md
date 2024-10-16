@@ -33,6 +33,7 @@ Published
 
 In Preparation
 ======
-* *Arrangements and Likelihood*, with Thomas Kahle, Lukas Kühne and Bernd Sturmfels
+* *Arrangements and Likelihood*, with Arian Görges, Thomas Kahle, Lukas Kühne, Leonie Mühlherr and Bernd Sturmfels
+* *Equations defining the Likelihood Correspondence*, with Thomas Kahle, Hal Schenck and Bernd Sturmfels
 * *Monotonicity of the ML-Degree for Toric Models*, with Carlos Améndola and Janike Oldekop
 * *Computing Tropicalizations of Engineered Complete Intersections*, with Alexander Esterov and Simon Telen
