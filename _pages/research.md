@@ -18,6 +18,7 @@ author_profile: true
 
 Preprints
 ======
+* *Arrangements and Likelihood* (2024). Joint with Thomas Kahle, Lukas Kühne, Leonie Mühlherr and Bernd Sturmfels. [arXiv:2411.09508](https://arxiv.org/abs/2411.09508).
 * *Bivariate Exponential Integrals and Edge-Bicolored Graphs* (2024). Joint with Michael Borinsky and Chiara Meroni. [arXiv:2409.18607](https://arxiv.org/abs/2409.18607).
 * *Euler Stratifications of Hypersurface Families* (2024). Joint with Simon Telen. [arXiv:2407.18176](https://arxiv.org/abs/2407.18176).
   * This paper is accompanied by the Julia software package [EulerStratifications.jl](https://github.com/maximilianwiesmann/EulerStratifications.jl).
@@ -33,7 +34,6 @@ Published
 
 In Preparation
 ======
-* *Arrangements and Likelihood*, with Arian Görges, Thomas Kahle, Lukas Kühne, Leonie Mühlherr and Bernd Sturmfels
 * *Equations defining the Likelihood Correspondence*, with Thomas Kahle, Hal Schenck and Bernd Sturmfels
 * *Monotonicity of the ML-Degree for Toric Models*, with Carlos Améndola and Janike Oldekop
 * *Computing Tropicalizations of Engineered Complete Intersections*, with Alexander Esterov and Simon Telen
