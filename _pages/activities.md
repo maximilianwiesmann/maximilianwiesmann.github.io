@@ -10,11 +10,19 @@ author_profile: true
 
 Upcoming Activities
 ======
-* Sep 23-27 2024: Research visit at ETH-ITS, Zürich
+* Mar 19-21 2025: [Combinatorial Synergies East](https://www.mis.mpg.de/events/series/combinatorial-synergies-east){:target="_blank"}, MPI MiS Leipzig
+* Mar 24-28 2025: [AlgStat 2025](https://sites.google.com/view/algstat2025/){:target="_blank"}, TU München
+* May 26-30 2025: [Workshop on the Applications of Commutative Algebra](http://www.fields.utoronto.ca/activities/24-25/commutative-algebra-applications){:target="_blank"}, Fields Institute Toronto
+* Oct 09-10 2025: Algebraic Models in Data Science and Quantum Systems, Universität Augsburg
 
 
 Past Activities
 ======
+* Feb 03-06 2025: Numerical Nonlinear Algebra in the (Real) World, MPI-CBG, Dresden
+* Nov 13 2024: Special Positive Geometry Seminar, MPI MiS Leipzig
+* Oct 30 2024: [1st MPI (Dresden + Leipzig) day](https://www.mis.mpg.de/events/series/1st-mpi-dresden-leipzig-day){:target="_blank"}, Leipzig
+* Sep 30 - Oct 02 2024: [IMPRS Combo III](https://www.mis.mpg.de/de/events/series/imprs-combo-iii){:target="_blank"}, Leipzig
+* Sep 23-27 2024: Research visit at ETH-ITS, Zürich
 * Sep 11-13 2024: [Kick-Off Combinatorial Synergies](https://www.math-conf.uni-osnabrueck.de/combinatorial-synergies/){:target="_blank"}, Osnabrück
 * Aug 12-16 2024: [World Congress in Probability and Statistics](https://www.bernoulli-ims-worldcongress2024.org){:target="_blank"}, Bochum
 * Jul 29 - Aug 02: [MEGA 2024](https://www.mis.mpg.de/de/events/series/mega-2024){:target="_blank"}, Leipzig
