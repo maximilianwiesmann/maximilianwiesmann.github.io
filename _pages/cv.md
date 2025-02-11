@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * PhD student in Mathematics, Max-Planck-Institute for Mathematics in the Sciences, Leipzig, since Dec 2022. Expected graduation: June 2025.
-  * Thesis: ["Nonlinear Algebra in Likelihood, Neurocomputing and Quantum Physics"](files/Thesis.pdf){:target="_blank"}
+  * Thesis: ["Nonlinear Algebra in Likelihood, Neurocomputing and Quantum Physics"](/files/Thesis.pdf){:target="_blank"}
 * MASt in Pure Mathematics, University of Cambridge, 2022
   * Essay: "Homological Mirror Symmetry for $\mathbb{C}^*$", supervised by Jack Smith
 * B.Sc. in Mathematics, University of Bonn, 2021
