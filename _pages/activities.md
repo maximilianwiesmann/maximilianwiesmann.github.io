@@ -12,6 +12,8 @@ Upcoming Activities
 ======
 * Mar 19-21 2025: [Combinatorial Synergies East](https://www.mis.mpg.de/events/series/combinatorial-synergies-east){:target="_blank"}, MPI MiS Leipzig
 * Mar 24-28 2025: [AlgStat 2025](https://sites.google.com/view/algstat2025/){:target="_blank"}, TU München
+* May 08 2025: Algebraic and Enumerative Combinatorics Seminar, University of Waterloo
+* May 15 2025: Mathematical Physics Seminar, Perimeter Institute, Waterloo
 * May 26-30 2025: [Workshop on the Applications of Commutative Algebra](http://www.fields.utoronto.ca/activities/24-25/commutative-algebra-applications){:target="_blank"}, Fields Institute Toronto
 * Oct 09-10 2025: Algebraic Models in Data Science and Quantum Systems, Universität Augsburg
 
@@ -52,6 +54,9 @@ Past Activities
 
 Talks
 ======
+* Nov 13 2024: Bivariate Exponential Integrals and Edge-Bicolored Graphs, Special Positive Geometry Seminar, MPI MiS Leipzig
+* Oct 30 2024: Nonlinear Algebra in Likelihood, Neurocomputing and Quantum Physics, [1st MPI (Dresden + Leipzig) day](https://www.mis.mpg.de/events/series/1st-mpi-dresden-leipzig-day){:target="_blank"}, Leipzig
+* Sep 30 2024: Introduction to Quantum Information Theory, [IMPRS Combo III](https://www.mis.mpg.de/de/events/series/imprs-combo-iii){:target="_blank"}, Leipzig
 * Sep 18 2024: [Euler Stratifications of Hypersurface Families](https://www.mis.mpg.de/events/event/euler-stratifications-of-hypersurface-families){:target="_blank"}, Seminar on Nonlinear Algebra, MPI MiS Leipzig
 * Aug 12 2024: Algebraic Geometry of Quantum Graphical Models, [Bernoulli-IMS World Congress in Probability and Statistics](https://www.bernoulli-ims-worldcongress2024.org){:target="_blank"}, Bochum
 * Jun 03 2024: Irreducible and Injective Resolutions, [Reading Group on Combinatorial Commutative Algebra](https://www.mis.mpg.de/events/event/reading-group-on-combinatorial-commutative-algebra){:target="_blank"}, MPI MiS Leipzig
