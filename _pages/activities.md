@@ -10,7 +10,6 @@ author_profile: true
 
 Upcoming Activities
 ======
-* Jun 06 2025: [2nd MPI (Dresden + Leipzig) Day](https://plan.events.mpg.de/event/473/){:target="_blank"}, MPI CBG Dresden
 * Jun 23 - Jul 04 2025: [SLMath Summer School: New perspectives on discriminants and their applications](https://www.mis.mpg.de/events/series/slmath-summer-school-new-perspectives-on-discriminants-and-their-applications){:target="_blank"}
 * Jul 07-11 2025: [SIAM Conference on Applied Algebraic Geometry](https://www.siam.org/conferences-events/siam-conferences/ag25/){:target="_blank"}
 * Oct 09-10 2025: Algebraic Models in Data Science and Quantum Systems, Universität Augsburg
@@ -18,6 +17,7 @@ Upcoming Activities
 
 Past Activities
 ======
+* Jun 06 2025: [2nd MPI (Dresden + Leipzig) Day](https://plan.events.mpg.de/event/473/){:target="_blank"}, MPI CBG Dresden (co-organizer with Aida Maraj)
 * May 26-30 2025: [Workshop on the Applications of Commutative Algebra](http://www.fields.utoronto.ca/activities/24-25/commutative-algebra-applications){:target="_blank"}, Fields Institute Toronto
 * Mar 24-28 2025: [AlgStat 2025](https://sites.google.com/view/algstat2025/){:target="_blank"}, TU München
 * Mar 19-21 2025: [Combinatorial Synergies East](https://www.mis.mpg.de/events/series/combinatorial-synergies-east){:target="_blank"}, MPI MiS Leipzig
