@@ -18,6 +18,7 @@ author_profile: true
 
 Preprints
 ======
+* *The Maximum Likelihood Degree of Toric Models is Monotonic* (2025). Joint with Carlos Améndola and Janike Oldekop. [arXiv:2507.02719](https://arxiv.org/abs/2507.02719)
 * *Squared Linear Models* (2025). Joint with Hannah Friedman and Bernd Sturmfels. [arXiv:2505.19351](https://arxiv.org/abs/2505.19351)
 * *The Likelihood Correspondence* (2025). Joint with Thomas Kahle, Hal Schenck and Bernd Sturmfels. [arXiv:2503.02536](https://arxiv.org/abs/2503.02536)
 * *Arrangements and Likelihood* (2024). Joint with Thomas Kahle, Lukas Kühne, Leonie Mühlherr and Bernd Sturmfels. [arXiv:2411.09508](https://arxiv.org/abs/2411.09508).
