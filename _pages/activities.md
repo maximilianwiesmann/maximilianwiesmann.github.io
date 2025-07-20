@@ -10,13 +10,14 @@ author_profile: true
 
 Upcoming Activities
 ======
-* Jun 23 - Jul 04 2025: [SLMath Summer School: New perspectives on discriminants and their applications](https://www.mis.mpg.de/events/series/slmath-summer-school-new-perspectives-on-discriminants-and-their-applications){:target="_blank"}
-* Jul 07-11 2025: [SIAM Conference on Applied Algebraic Geometry](https://www.siam.org/conferences-events/siam-conferences/ag25/){:target="_blank"}
+* Aug 25-29 2025: [Computations in Algebraic Geometry: Complex, Real, and Tropical](https://eth-its.ethz.ch/activities/CAG.html){:target="_blank"}, ETH ITS Zürich
 * Oct 09-10 2025: Algebraic Models in Data Science and Quantum Systems, Universität Augsburg
 
 
 Past Activities
 ======
+* Jul 07-11 2025: [SIAM Conference on Applied Algebraic Geometry](https://www.siam.org/conferences-events/siam-conferences/ag25/){:target="_blank"}
+* Jun 23 - Jul 04 2025: [SLMath Summer School: New perspectives on discriminants and their applications](https://www.mis.mpg.de/events/series/slmath-summer-school-new-perspectives-on-discriminants-and-their-applications){:target="_blank"} (teaching assistant)
 * Jun 06 2025: [2nd MPI (Dresden + Leipzig) Day](https://plan.events.mpg.de/event/473/){:target="_blank"}, MPI CBG Dresden (co-organizer with Aida Maraj)
 * May 26-30 2025: [Workshop on the Applications of Commutative Algebra](http://www.fields.utoronto.ca/activities/24-25/commutative-algebra-applications){:target="_blank"}, Fields Institute Toronto
 * Mar 24-28 2025: [AlgStat 2025](https://sites.google.com/view/algstat2025/){:target="_blank"}, TU München
@@ -55,6 +56,7 @@ Past Activities
 
 Talks
 ======
+* Jul 09 2025: Euler Stratifications of Hypersurface Families, [SIAM Conference on Applied Algebraic Geometry 2025](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=84198){:target="_blank"}, Madison, Wisconsin
 * May 26-30 2025: The Likelihood Correspondence, [Workshop on the Applications of Commutative Algebra](http://www.fields.utoronto.ca/activities/24-25/commutative-algebra-applications){:target="_blank"}, Fields Institute Toronto. [Recording](http://www.fields.utoronto.ca/talks/Likelihood-Correspondence){:target="_blank"}
 * May 15 2025: Edge-Colored Graphs and Exponential Integrals, Mathematical Physics Seminar, Perimeter Institute, Waterloo. [Recording](https://pirsa.org/25050033){:target="_blank"}
 * May 08 2025: Arrangements and Likelihood, Algebraic and Enumerative Combinatorics Seminar, University of Waterloo
