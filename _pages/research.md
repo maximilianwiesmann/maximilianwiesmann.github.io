@@ -22,6 +22,7 @@ Preprints
 * *Squared Linear Models* (2025). Joint with Hannah Friedman and Bernd Sturmfels. [arXiv:2505.19351](https://arxiv.org/abs/2505.19351)
 * *The Likelihood Correspondence* (2025). Joint with Thomas Kahle, Hal Schenck and Bernd Sturmfels. [arXiv:2503.02536](https://arxiv.org/abs/2503.02536)
 * *Arrangements and Likelihood* (2024). Joint with Thomas Kahle, Lukas Kühne, Leonie Mühlherr and Bernd Sturmfels. [arXiv:2411.09508](https://arxiv.org/abs/2411.09508).
+Accepted for publication in: Vietnam Journal of Mathematics, Memorial Volume for Andreas Dress.
 * *Euler Stratifications of Hypersurface Families* (2024). Joint with Simon Telen. [arXiv:2407.18176](https://arxiv.org/abs/2407.18176).
   * This paper is accompanied by the Julia software package [EulerStratifications.jl](https://github.com/maximilianwiesmann/EulerStratifications.jl).
 * *Pathological Regularization Regimes in Classification Tasks* (2024). Joint with Paul Larsen. [arXiv:2406.14731](https://arxiv.org/abs/2406.14731).
