@@ -14,7 +14,7 @@ Reading Group on Hypergeometric Discriminants
 This is the website for the reading group on hypergeometric discriminants. We are working through Saiei Matsubara's paper [Hypergeometric Discriminants](https://arxiv.org/abs/2505.13163){:target="_blank"}.
 
 ## Schedule 
-Every meeting takes place 5-6pm CET. [This](https://mpimis.zoom.us/j/5271342110?pwd=SE5zN1kwYmcrazRjSEQ2Qnl0YWJYdz09){:target="_blank"} is the Zoom link (please only join this Zoom meeting during the days of our reading group).
+Every meeting takes place 5-6pm CEST (GMT+2). [This](https://mpimis.zoom.us/j/5271342110?pwd=SE5zN1kwYmcrazRjSEQ2Qnl0YWJYdz09){:target="_blank"} is the Zoom link (please only join this Zoom meeting during the days of our reading group).
 
 | Date | Section | Speaker | Remarks | Notes |
 | ---- | ------- | ------- | ------- | ----- |
