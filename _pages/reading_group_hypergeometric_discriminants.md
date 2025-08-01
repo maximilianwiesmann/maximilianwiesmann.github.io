@@ -18,7 +18,7 @@ Every meeting takes place 5-6pm CEST (GMT+2). [This](https://mpimis.zoom.us/j/52
 
 | Date | Section | Speaker | Remarks | Notes |
 | ---- | ------- | ------- | ------- | ----- |
-| Jul 31 | Intro & §2-2.1 | Max | | |
+| Jul 31 | Intro & §2-2.1 | Max | | [hypgeomdiscr01.pdf](/files/hypgeomdiscr01.pdf){:target="_blank"} |
 | Aug 05 | §2.2-2.4 | Joris | | |
 | Aug 06 | §3 | Simon | see also §3 of [this paper](https://arxiv.org/abs/2301.13579){:target="_blank"} | |
 | Aug 11 | §4.1 | Lizzie | | |
