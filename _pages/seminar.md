@@ -17,6 +17,6 @@ This is the website for the Math Seminar at CSBD. Upcoming talks and abstracts a
 
 | Date | Speaker | Title | Abstract |
 | ---- | ------- | ----- | -------- | 
-| Sep 25 |  |  | <details> <summary>Show abstract</summary> bla bla bla </details>  |
+| Sep 25 |  |  | <details> abstract for first talk </details> |
 | Oct 02 |  |  |  |
 | Oct 09 |  |  |  |
