@@ -20,7 +20,7 @@ Preprints
 ======
 * *The Maximum Likelihood Degree of Toric Models is Monotonic* (2025). Joint with Carlos Améndola and Janike Oldekop. [arXiv:2507.02719](https://arxiv.org/abs/2507.02719)
 * *Squared Linear Models* (2025). Joint with Hannah Friedman and Bernd Sturmfels. [arXiv:2505.19351](https://arxiv.org/abs/2505.19351)
-* *The Likelihood Correspondence* (2025). Joint with Thomas Kahle, Hal Schenck and Bernd Sturmfels. [arXiv:2503.02536](https://arxiv.org/abs/2503.02536)
+* *The Likelihood Correspondence* (2025). Joint with Thomas Kahle, Hal Schenck and Bernd Sturmfels. [arXiv:2503.02536](https://arxiv.org/abs/2503.02536). Accepted for publication in: Foundations of Computational Mathematics.
 * *Arrangements and Likelihood* (2024). Joint with Thomas Kahle, Lukas Kühne, Leonie Mühlherr and Bernd Sturmfels. [arXiv:2411.09508](https://arxiv.org/abs/2411.09508).
 Accepted for publication in: Vietnam Journal of Mathematics, Memorial Volume for Andreas Dress.
 * *Euler Stratifications of Hypersurface Families* (2024). Joint with Simon Telen. [arXiv:2407.18176](https://arxiv.org/abs/2407.18176).
