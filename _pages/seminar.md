@@ -29,6 +29,8 @@ Each talk is scheduled for 50 minutes, with an additional 10 minutes for questio
 
 
 ## Past Talks
+
+
 | Date | Speaker | Title | Abstract |
 | ---- | ------- | ----- | -------- | 
 | Sep 25 | Cerene Rathilal | On frames and the Peano compactification | <details> This talk will provide an introduction to pointfree topology and have a focus on some recent work on compactifications of frames. In [Curtis (1980): Hyperspaces of Noncompact Metric Spaces], Curtis introduced the concept of a locally non-separating remainder in order to study the hyperspace of a non-compact space $X$. Using the property of a locally non-separating remainder, Curtis established the conditions under which a Peano compactification of a connected space $X$ would exist. In this talk, we will present the analog of the concept of locally non-separating sets, in frames. We will discuss properties of sublocales, after which we define a locally non-separating sublocale and conclude by providing a generalisation for a special case of Curtis’s result. </details> |
