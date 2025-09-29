@@ -29,7 +29,7 @@ Each talk is scheduled for 50 minutes, with an additional 10 minutes for questio
 | Oct 30 | tba | tba | tba | tba |
 | Nov 06 | Thomas Bouchet | MPI CBG | tba | tba |
 | Nov 13 | tba | tba | tba | tba |
-| Nov 20 | tba | tba | tba | tba |
+| Nov 20 | Clemens Brüser | TU Dresden | tba | tba |
 | Nov 27 | Daniel McGinnis | Princeton University | tba | tba |
 
 
