@@ -32,7 +32,7 @@ Each talk is scheduled for 50 minutes, with an additional 10 minutes for questio
 | Nov 13 | Thomas Bouchet | MPI CBG | tba | tba |
 | Nov 20 | Clemens Brüser | TU Dresden | tba | tba |
 | Nov 27 | Daniel McGinnis | Princeton University | tba | tba |
-<!-- | Dec 04 | Martin Keller-Ressel | TU Dresden | Polynomial-preserving Stochastic Processes and Applications | tba | -->
+| Dec 04 | Martin Keller-Ressel | TU Dresden | Polynomial-preserving Stochastic Processes and Applications | tba |
 
 
 ## Past Talks
