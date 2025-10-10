@@ -10,14 +10,14 @@ author_profile: true
 
 Upcoming Activities
 ======
-* Aug 25-29 2025: [Computations in Algebraic Geometry: Complex, Real, and Tropical](https://eth-its.ethz.ch/activities/CAG.html){:target="_blank"}, ETH ITS Zürich
-* Sep 03-05 2025: [SPP Combinatorial Synergies Annual Meeting](https://www.combinatorial-synergies.de/activities/2025-09_AnnualConference/){:target="_blank"}, Leibniz Universität Hannover
-* Oct 06-08 2025: [Chow Lectures](https://www.mis.mpg.de/de/events/series/chow-lectures-2025){:target="_blank"}, MPI MiS Leipzig
 * Oct 15-17 2025: [Algebraic methods in dynamics and particle physics](https://wp.mpi-sws.org/dynaverse2025/){:target="_blank"}, MPI SWS Saarbrücken
 
 
 Past Activities
 ======
+* Oct 06-08 2025: [Chow Lectures](https://www.mis.mpg.de/de/events/series/chow-lectures-2025){:target="_blank"}, MPI MiS Leipzig
+* Sep 03-05 2025: [SPP Combinatorial Synergies Annual Meeting](https://www.combinatorial-synergies.de/activities/2025-09_AnnualConference/){:target="_blank"}, Leibniz Universität Hannover
+* Aug 25-29 2025: [Computations in Algebraic Geometry: Complex, Real, and Tropical](https://eth-its.ethz.ch/activities/CAG.html){:target="_blank"}, ETH ITS Zürich
 * Jul 07-11 2025: [SIAM Conference on Applied Algebraic Geometry](https://www.siam.org/conferences-events/siam-conferences/ag25/){:target="_blank"}
 * Jun 23 - Jul 04 2025: [SLMath Summer School: New perspectives on discriminants and their applications](https://www.mis.mpg.de/events/series/slmath-summer-school-new-perspectives-on-discriminants-and-their-applications){:target="_blank"} (teaching assistant)
 * Jun 06 2025: [2nd MPI (Dresden + Leipzig) Day](https://plan.events.mpg.de/event/473/){:target="_blank"}, MPI CBG Dresden (co-organizer with Aida Maraj)
