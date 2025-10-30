@@ -18,7 +18,7 @@ Each talk is scheduled for 50 minutes, with an additional 10 minutes for questio
 *Location:* CSBD ([location on Google maps](https://maps.app.goo.gl/fs93agptKavkdyiG8)), top floor seminar room.
 
 
-:christmas_tree: *Between Dec 25 and Jan 08 the seminar will be on Christmas break* :christmas_tree:
+🎄 *Between Dec 25 and Jan 08 the seminar will be on Christmas break* 🎄
 
 
 ## Upcoming Talks 
