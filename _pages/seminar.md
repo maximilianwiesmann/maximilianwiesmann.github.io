@@ -25,11 +25,15 @@ Each talk is scheduled for 50 minutes, with an additional 10 minutes for questio
 
 | Date | Speaker | Affiliation | Title | Abstract |
 | ---- | ------- | ----- | ----- | -------- | 
-| Nov 27 | Daniel McGinnis | Princeton University | A necessary and sufficient condition for $k$-transversals | tba |
-| Dec 04 | Martin Keller-Ressel | TU Dresden | Polynomial-preserving Stochastic Processes and Applications | tba |
+| Nov 27 | Daniel McGinnis | Princeton University | A necessary and sufficient condition for $k$-transversals | <details> We solve a long-standing open problem posed by Goodman and Pollack in 1988 by establishing a necessary and sufficient condition for a family of convex sets in $\mathbb{R}^d$ to admit a $k$-transversal (a $k$-dimensional affine subspace that intersects each set in the family) for any $0 \le k \le d-1$. This result is a common generalization of Helly's theorem ($k=0$) and the Goodman-Pollack-Wenger theorem ($k=d-1$). Our approach is topological and employs a Borsuk-Ulam-type theorem on Stiefel manifolds. This is joint work with Nikola Sadovek. </details> |
+| Dec 04 | Timo de Wolff | TU Braunschweig | tba | tba |
 | Dec 11 | Sjoerd Van der Niet | Renyi Institute Budapest, TU Munich | tba | tba |
 | Dec 18 | tba | tba | tba | tba |
 | Jan 15 | Andreas Thom | TU Dresden | tba | tba |
+| Jan 22 | Ivan Spirandelli | University of Potsdam | tba | tba |
+| Jan 29 | Sophie Jaffard | MPI CBG and MPI PKS | tba | tba |
+| Feb 05 | Martin Keller-Ressel | TU Dresden | Polynomial-preserving Stochastic Processes and Applications | tba |
+| Feb 12 | Dominik Sturm | MPI CBG | tba | tba |
 
 
 ## Past Talks
