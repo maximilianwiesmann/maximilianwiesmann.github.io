@@ -34,7 +34,8 @@ Each talk is scheduled for 50 minutes, with an additional 10 minutes for questio
 | **Jan 26** | Michael Hecht | University Wrocław, Helmholtz-Zentrum Dresden-Rossendorf | The Fast Newton Transform (FNT) | <details> The FNT is a novel algorithm for multivariate polynomial interpolation with a runtime of nearly Nlog(N), where N scales only sub-exponentially with spatial dimension, surpassing the runtime of the tensorial Fast Fourier Transform (FFT). We have proven and demonstrated the optimal geometric approximation rates for a class of analytic functions—termed Bos–Levenberg–Trefethen functions—to be reached by the FNT and to be maintained for the derivatives of the interpolants. This establishes the FNT as a new standard in spectral methods, particularly suitable for high-dimensional, non-periodic PDE problems, interpolation tasks, arising as the computational bottleneck in solving, e.g. 6D Boltzmann, Fokker-Planck, or Vlasov equations, multi-body Hamiltonian systems, and the inference of governing equations in complex self-organizing systems. </details> |
 | Jan 29 | Alvaro Ribot | Harvard University | tba | tba |
 | Feb 05 | Martin Keller-Ressel | TU Dresden | Polynomial-preserving Stochastic Processes and Applications | tba |
-| Feb 12 | Dominik Sturm | MPI CBG | tba | tba |
+| Feb 12 | Pardis Semnani | University of British Columbia | tba | tba |
+| Feb 19 | Dominik Sturm | MPI CBG | tba | tba |
 
 
 ## Past Talks
