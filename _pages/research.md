@@ -26,6 +26,7 @@ Published
 
 Preprints
 ======
+* *Asymptotic number of edge-colored regular graphs* (2026). Joint with Michael Borinsky and Chiara Meroni. [arXiv:2601.18994](https://arxiv.org/abs/2601.18994)
 * *Lee-Yang phenomena in edge-coloured graph counting* (2026). [arXiv:2601.02525](https://arxiv.org/abs/2601.02525)
 * *The Maximum Likelihood Degree of Toric Models is Monotonic* (2025). Joint with Carlos Améndola and Janike Oldekop. [arXiv:2507.02719](https://arxiv.org/abs/2507.02719)
 * *Squared Linear Models* (2025). Joint with Hannah Friedman and Bernd Sturmfels. [arXiv:2505.19351](https://arxiv.org/abs/2505.19351). Accepted for publication in: SIAM Journal on Applied Algebra and Geometry.

@@ -10,11 +10,15 @@ author_profile: true
 
 Upcoming Activities
 ======
-* Oct 15-17 2025: [Algebraic methods in dynamics and particle physics](https://wp.mpi-sws.org/dynaverse2025/){:target="_blank"}, MPI SWS Saarbrücken
+* Feb 13 2026: Dresden Leipzig Day, MPI MiS Leipzig
+* Mar 16-20 2026: [https://sites.google.com/view/trolocsym/home](https://sites.google.com/view/trolocsym/home){:target="_blank"}, Universität Bielefeld
+* Mar 31 2026: Talk in Nonlinear Algebra Seminar, MPI MiS Leipzig
 
 
 Past Activities
 ======
+* Jan 20-23 2026: MPI PKS Biophysics Group Retreat, Oberwiesenthal
+* Oct 15-17 2025: [Algebraic methods in dynamics and particle physics](https://wp.mpi-sws.org/dynaverse2025/){:target="_blank"}, MPI SWS Saarbrücken
 * Oct 06-08 2025: [Chow Lectures](https://www.mis.mpg.de/de/events/series/chow-lectures-2025){:target="_blank"}, MPI MiS Leipzig
 * Sep 03-05 2025: [SPP Combinatorial Synergies Annual Meeting](https://www.combinatorial-synergies.de/activities/2025-09_AnnualConference/){:target="_blank"}, Leibniz Universität Hannover
 * Aug 25-29 2025: [Computations in Algebraic Geometry: Complex, Real, and Tropical](https://eth-its.ethz.ch/activities/CAG.html){:target="_blank"}, ETH ITS Zürich
@@ -58,6 +62,7 @@ Past Activities
 
 Talks
 ======
+* Oct 15-17 2025: Edge-colored graphs, exponential integrals, and Lee-Yang zeros, [Algebraic methods in dynamics and particle physics](https://wp.mpi-sws.org/dynaverse2025/){:target="_blank"}, MPI SWS Saarbrücken
 * Jul 09 2025: Euler Stratifications of Hypersurface Families, [SIAM Conference on Applied Algebraic Geometry 2025](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=84198){:target="_blank"}, Madison, Wisconsin
 * May 26-30 2025: The Likelihood Correspondence, [Workshop on the Applications of Commutative Algebra](http://www.fields.utoronto.ca/activities/24-25/commutative-algebra-applications){:target="_blank"}, Fields Institute Toronto. [Recording](http://www.fields.utoronto.ca/talks/Likelihood-Correspondence){:target="_blank"}
 * May 15 2025: Edge-Colored Graphs and Exponential Integrals, Mathematical Physics Seminar, Perimeter Institute, Waterloo. [Recording](https://pirsa.org/25050033){:target="_blank"}
