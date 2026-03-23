@@ -32,7 +32,7 @@ Each talk is scheduled for 50 minutes, with an additional 10 minutes for questio
 | May 07 | Jason P. Smith | Nottingham Trent University | tba | tba |
 | May 14 | *public holiday* | *no talk* | | |
 | May 21 | Ingmar Glauche | TU Dresden | tba | tba |
-| May 28 | Maria Bruna | University of Oxford | tba | tba |
+| May 28 | Ergün Yalçin | Bilkent University | tba | tba |
 | Jun 04 | François Petit | Inserm | tba | tba |
 
 
