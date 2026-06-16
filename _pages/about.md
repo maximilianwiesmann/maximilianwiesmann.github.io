@@ -18,7 +18,7 @@ During September and October 2023 I have been a visiting student at the [Institu
 
 Together with Nikola Sadovek and Giulio Zucal I am organising the math seminar at CSBD. Check out the [seminar webpage](https://maximilianwiesmann.github.io/seminar/) for more information.
 
-I am co-organising a lecture series on analytic combinatorics by Steve Melczer at MPI MiS from June 9-11 2026. Please consider registering [here](https://www.mis.mpg.de/events/series/an-invitation-to-analytic-combinatorics){:target="_blank"}.
+I am co-organising the **Singular Learning Theory Days** at MPI CBG from October 26-27 2026. Please consider registering [here](https://plan.events.mpg.de/event/783/){:target="_blank"}.
 
 If you have software or other data related to your research on nonlinear algebra, please consider submitting your data to the [Nonlinear Algebra Community](https://zenodo.org/communities/nonlinalg/records){:target="_blank"} on [Zenodo](https://zenodo.org/){:target="_blank"}.
 

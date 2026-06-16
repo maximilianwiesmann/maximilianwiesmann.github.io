@@ -10,13 +10,19 @@ author_profile: true
 
 Upcoming Activities
 ======
-* Mar 02-06 2026: French Computer Algebra Days, CIRM, Marseille
-* Mar 16-20 2026: [https://sites.google.com/view/trolocsym/home](https://sites.google.com/view/trolocsym/home){:target="_blank"}, Universität Bielefeld
-* Mar 31 2026: Talk in Nonlinear Algebra Seminar, MPI MiS Leipzig
+* Jun 22-26 2026: [Analysis of Algorithms (AofA) 2026](https://aofa2026.info/){:target="_blank"}, München 
+* Aug 10 - Sep 18 2026: [Dive into Research: Combinatorics in Algebraic Statistics and Game Theory](https://sites.google.com/view/aidamaraj/dresdendir){:target="_blank"}, Dresden
+* Sep 01-04 2026: [Albatross 2026](https://albatross-2026.sciencesconf.org/){:target="_blank"}, Paris
+* Mar 8-12 2027: [Joint Annual Meeting of GAMM and DMV](https://jahrestagung.gamm.org/joint-annual-meeting-2027/joint-annual-meeting/){:target="_blank"}, Ulm
+* May 24-27 2027: [Algebraic Varieties and Electronic Structure](https://www.ipam.ucla.edu/programs/workshops/workshop-iv-algebraic-varieties-and-electronic-structure/?tab=overview){:target="_blank"}, IPAM Los Angeles
+
 
 
 Past Activities
 ======
+* Jun 09-11 2026: Lecture series ["An Invitation to Analytic Combinatorics"](https://www.mis.mpg.de/events/series/an-invitation-to-analytic-combinatorics){:target="_blank"}, MPI MiS Leipzig (**coorganiser**)
+* Mar 16-20 2026: [https://sites.google.com/view/trolocsym/home](https://sites.google.com/view/trolocsym/home){:target="_blank"}, Universität Bielefeld
+* Mar 02-06 2026: French Computer Algebra Days, CIRM, Marseille
 * Feb 13 2026: Dresden Leipzig Day, MPI MiS Leipzig
 * Jan 20-23 2026: MPI PKS Biophysics Group Retreat, Oberwiesenthal
 * Oct 15-17 2025: [Algebraic methods in dynamics and particle physics](https://wp.mpi-sws.org/dynaverse2025/){:target="_blank"}, MPI SWS Saarbrücken
@@ -63,6 +69,8 @@ Past Activities
 
 Talks
 ======
+* May 12 2026: Lee-Yang limit curves in edge-coloured graph counting, Forschungsseminar "Algebra und Theoretische Mathematik", TU Chemnitz
+* Mar 31 2026: Lee-Yang phenomena in edge-coloured graph counting, Nonlinear Algebra Seminar, MPI MiS Leipzig
 * Mar 05 2026: Arrangements and Likelihood, French Computer Algebra Days, CIRM, Marseille
 * Oct 15-17 2025: Edge-colored graphs, exponential integrals, and Lee-Yang zeros, [Algebraic methods in dynamics and particle physics](https://wp.mpi-sws.org/dynaverse2025/){:target="_blank"}, MPI SWS Saarbrücken
 * Jul 09 2025: Euler Stratifications of Hypersurface Families, [SIAM Conference on Applied Algebraic Geometry 2025](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=84198){:target="_blank"}, Madison, Wisconsin
