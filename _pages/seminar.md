@@ -30,7 +30,7 @@ Each talk is scheduled for 50 minutes, with an additional 10 minutes for questio
 | Jul 09 | tba | | | |
 | Jul 16 | tba | | | |
 | Jul 23 | Lorenzo Baldi | MPI CBG | tba | tba |
-| Jul 30 | tba | | | |
+| Jul 30 | Shelby Cox | MPI MiS | Cross-ratio puzzling | tba |
 
 In August the seminar will go on **summer break**.
 
