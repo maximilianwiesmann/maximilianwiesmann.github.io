@@ -17,6 +17,8 @@ Each talk is scheduled for 50 minutes, with an additional 10 minutes for questio
 
 *Location:* CSBD ([location on Google maps](https://maps.app.goo.gl/fs93agptKavkdyiG8)), top floor seminar room.
 
+*On July 09, the seminar takes place in the CSBD **ground floor** seminar room.*
+
 
 ## Upcoming Talks 
 
