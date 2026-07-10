@@ -17,14 +17,11 @@ Each talk is scheduled for 50 minutes, with an additional 10 minutes for questio
 
 *Location:* CSBD ([location on Google maps](https://maps.app.goo.gl/fs93agptKavkdyiG8)), top floor seminar room.
 
-*On July 09, the seminar takes place in the CSBD **ground floor** seminar room.*
-
 
 ## Upcoming Talks 
 
 | Date | Speaker | Affiliation | Title | Abstract |
 | ---- | ------- | ----- | ----- | -------- | 
-| Jul 09 | Motohico Mulase | UC Davis | How do we feel, and touch, the Geometric Langlands Correspondence? | <details>The talk is aimed at sharing my own experiences of understanding new mathematics from what I have been working on.</details> |
 | Jul 16 | tba | | | |
 | Jul 23 | Lorenzo Baldi | MPI CBG | tba | tba |
 | Jul 30 | Shelby Cox | MPI MiS | Cross-ratio puzzling | tba |
@@ -37,6 +34,7 @@ In August the seminar will go on **summer break**.
 
 | Date | Speaker | Affiliation | Title | Abstract |
 | ---- | ------- | ----- | ----- | -------- | 
+| Jul 09 | Motohico Mulase | UC Davis | How do we feel, and touch, the Geometric Langlands Correspondence? | <details>The talk is aimed at sharing my own experiences of understanding new mathematics from what I have been working on.</details> |
 | Jul 02 | Pierre Haas | MPI CBG/PKS | Geometry of T1 transitions in epithelia | <details>The flows of tissues of epithelial cells often involve neighbour exchanges called T1 transitions. Mechanically, they are irreversible rearrangements crossing an energy barrier. In this talk, I will deploy geometric constructions of classical Euclidean geometry to calculate this energy barrier for general, isolated T1 transitions dominated by line tensions. I will show how regularity of cell packings, tension fluctuations, and nonlinear tensions increase this energy barrier, providing the basis for coarse-grained understanding of cell neighbour exchanges in continuum models of epithelia.</details> |
 | Jun 26 | Maximilian Engel | University of Amsterdam | Random attractors on countable state spaces | <details>I will describe the synchronization behavior of discrete-time Markov chains on countable state spaces. Representing a Markov chain in terms of a random dynamical system, which describes the collective dynamics of trajectories driven by the same noise, allows for the characterization of synchronization via random attractors. We establish the existence and uniqueness of a random attractor under mild conditions and show that forward and pullback attraction are equivalent in our setting. Additionally, we provide a sufficient condition for reaching the random attractor, or synchronization respectively, in a time of finite mean. This is joint work with Robin Chemnitz and Guillermo Olicón-Méndez</details> |
 | Jun 18 | Xiao Yang | Leiden University | Two tales of elliptic curves: cell modelling and algebraic K-theory | <details>Communication between single cells or higher organisms by means of diffusive compounds is an important phenomenon in biological systems. A straightforward model is by a diffusion equation with suitable flux boundary conditions at the cell boundaries. Such a model will become computationally inefficient and analytically complex when there are many cells, even more so when they are moving. We propose to consider also a point source model. Each cell is virtually reduced to a point and appears in the diffusion equation for the compound on the full spatial domain as a singular reaction term in the form of a Dirac delta measure located at the cell’s centre. The amplitude of the Dirac delta measure is a nonlocal term of the compound’s concentration near the virtual cell boundary so as to preserve the essential biological features. To investigate the positivity of the solution and the structure of steady states, we employ the Laplace transform. In addition, the theory of elliptic curve is also involved.</details> |
