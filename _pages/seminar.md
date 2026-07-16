@@ -17,12 +17,13 @@ Each talk is scheduled for 50 minutes, with an additional 10 minutes for questio
 
 *Location:* CSBD ([location on Google maps](https://maps.app.goo.gl/fs93agptKavkdyiG8)), top floor seminar room.
 
+There will be **no talk on July 16**!
+
 
 ## Upcoming Talks 
 
 | Date | Speaker | Affiliation | Title | Abstract |
 | ---- | ------- | ----- | ----- | -------- | 
-| Jul 16 | tba | | | |
 | Jul 23 | Lorenzo Baldi | MPI CBG | Algebraic and metric aspects in real algebraic geometry | <details>In this overview talk, I will discuss different techniques that are required for the study of real algebraic and semialgebraic sets. Tarki's transfer principle is the key algebraic ingredient: a semialgebraic formula defines a nonempty semialgebraic set over the real numbers if and only if the same formula defines  a nonempty semialgebraic set over an arbitrary real closed field extension. For statements which are not semialgebraic in nature, the tranfer principle fails. One is then forced to introduce metric considerations, which typically take the form of a "distance from the discriminant". I will present this dual perspective by concrete examples, arising from the study of positive polynomials and (if time permits) of real algebraic curves.</details> |
 | Jul 30 | Shelby Cox | MPI MiS | Cross-ratio puzzling | tba |
 
