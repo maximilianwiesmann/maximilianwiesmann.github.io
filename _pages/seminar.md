@@ -17,15 +17,12 @@ Each talk is scheduled for 50 minutes, with an additional 10 minutes for questio
 
 *Location:* CSBD ([location on Google maps](https://maps.app.goo.gl/fs93agptKavkdyiG8)), top floor seminar room.
 
-On July 23 we'll be in the **CSBD ground floor** seminar room!
-
 
 ## Upcoming Talks 
 
 | Date | Speaker | Affiliation | Title | Abstract |
 | ---- | ------- | ----- | ----- | -------- | 
-| Jul 23 | Lorenzo Baldi | MPI CBG | Algebraic and metric aspects in real algebraic geometry | <details>In this overview talk, I will discuss different techniques that are required for the study of real algebraic and semialgebraic sets. Tarki's transfer principle is the key algebraic ingredient: a semialgebraic formula defines a nonempty semialgebraic set over the real numbers if and only if the same formula defines  a nonempty semialgebraic set over an arbitrary real closed field extension. For statements which are not semialgebraic in nature, the tranfer principle fails. One is then forced to introduce metric considerations, which typically take the form of a "distance from the discriminant". I will present this dual perspective by concrete examples, arising from the study of positive polynomials and (if time permits) of real algebraic curves.</details> |
-| Jul 30 | Shelby Cox | MPI MiS | Cross-ratio puzzling | tba |
+| Jul 30 | Shelby Cox | MPI MiS | Cross-ratio puzzling | <details> In this talk, I will introduce cross-ratio puzzling, a new quartet-based algorithm for phylogenetic reconstruction that combines ideas from quartet puzzling with recent work on cross-ratio degrees. I will present preliminary results from applying the algorithm to sequence-alignment data sets. I will also highlight the interplay between the algebraic structure of cross-ratio degrees and the discrete problem of reconstructing phylogenetic trees from quartets.</details> |
 
 In August the seminar will go on **summer break**.
 
@@ -35,6 +32,7 @@ In August the seminar will go on **summer break**.
 
 | Date | Speaker | Affiliation | Title | Abstract |
 | ---- | ------- | ----- | ----- | -------- | 
+| Jul 23 | Lorenzo Baldi | MPI CBG | Algebraic and metric aspects in real algebraic geometry | <details>In this overview talk, I will discuss different techniques that are required for the study of real algebraic and semialgebraic sets. Tarki's transfer principle is the key algebraic ingredient: a semialgebraic formula defines a nonempty semialgebraic set over the real numbers if and only if the same formula defines  a nonempty semialgebraic set over an arbitrary real closed field extension. For statements which are not semialgebraic in nature, the tranfer principle fails. One is then forced to introduce metric considerations, which typically take the form of a "distance from the discriminant". I will present this dual perspective by concrete examples, arising from the study of positive polynomials and (if time permits) of real algebraic curves.</details> |
 | Jul 09 | Motohico Mulase | UC Davis | How do we feel, and touch, the Geometric Langlands Correspondence? | <details>The talk is aimed at sharing my own experiences of understanding new mathematics from what I have been working on.</details> |
 | Jul 02 | Pierre Haas | MPI CBG/PKS | Geometry of T1 transitions in epithelia | <details>The flows of tissues of epithelial cells often involve neighbour exchanges called T1 transitions. Mechanically, they are irreversible rearrangements crossing an energy barrier. In this talk, I will deploy geometric constructions of classical Euclidean geometry to calculate this energy barrier for general, isolated T1 transitions dominated by line tensions. I will show how regularity of cell packings, tension fluctuations, and nonlinear tensions increase this energy barrier, providing the basis for coarse-grained understanding of cell neighbour exchanges in continuum models of epithelia.</details> |
 | Jun 26 | Maximilian Engel | University of Amsterdam | Random attractors on countable state spaces | <details>I will describe the synchronization behavior of discrete-time Markov chains on countable state spaces. Representing a Markov chain in terms of a random dynamical system, which describes the collective dynamics of trajectories driven by the same noise, allows for the characterization of synchronization via random attractors. We establish the existence and uniqueness of a random attractor under mild conditions and show that forward and pullback attraction are equivalent in our setting. Additionally, we provide a sufficient condition for reaching the random attractor, or synchronization respectively, in a time of finite mean. This is joint work with Robin Chemnitz and Guillermo Olicón-Méndez</details> |
