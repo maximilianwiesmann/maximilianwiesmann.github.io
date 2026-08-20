@@ -1,12 +1,34 @@
+
 ---
+permalink: /seminar/
+layout: null
+---
+
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="refresh" content="0; url=https://csbd-math-seminar.github.io/">
+  <link rel="canonical" href="https://csbd-math-seminar.github.io/">
+  <title>Redirecting</title>
+</head>
+<body>
+  <p>
+    The seminar has moved to a new website:
+    <a href="https://csbd-math-seminar.github.io/">https://csbd-math-seminar.github.io/</a>.
+  </p>
+</body>
+</html>
+
+<!-- ---
 layout: archive
 permalink: /seminar/
 author_profile: false
 # redirect_from:
 #  - /resume
----
+--- -->
 
-{% include base_path %}
+<!-- {% include base_path %}
 
 Math Seminar at CSBD
 ======
@@ -80,4 +102,4 @@ In August the seminar will go on **summer break**.
 | Oct 16 | Renee Hoekzema | Free University of Amsterdam | Spectral gene selection methods and models for host/parasite co-phylogeny | <details>  I will talk about two disjoint projects. Firstly, I will talk about an application of spectral graph theory to the study of single cell transcriptomics, in particular the problem of feature selection of relevant genes in such experiments. Single cell transcriptomics is a powerful technique in biology that allows for the measurement of gene expression levels in many individual cells simultaneously. Current methods for analysis assume that cell types are discrete. However, in practice there is also continuous variation between cells: subtypes of subtypes, differentiation pathways, responses to environment or treatment, et cetera. We propose topologically-inspired data analysis methods that identify coherent gene expression patterns considering discrete and continuous patterns on equal footing. This is joint work with Lewis Marsh, Otto Sumray, Thomas Carroll, Xin Lu, Helen Byrne and Heather Harrington. Secondly, I will talk about ongoing work with Gillian Grindstaff on models for co-evolution of “nested’’ systems, such as parasite/host systems, individuals within a species, or “phylosymbiosis” – the coupled evolution of the microbiome and its hosts. We create a space of nested phylogenetic trees and study its intricate geometry. In particular we show that this space is CAT(0) – in analogy with the influential work of Billera, Holmes and Vogtmann (2001) – implying the existence of unique averages over nested trees. </details> |
 | Oct 09 | Edmilson Roque | MPI PKS | Ergodic basis pursuit leads to robust reconstruction of sparse network dynamics | <details> Networks of coupled dynamical systems are successful models in diverse fields of science, ranging from physics to neuroscience. The network interaction structure impacts the dynamics; in fact, many malfunctions are associated with disorders in the network structure. Yet, typically, we cannot measure the interaction structure; we only have access to multivariate time series of nodes’ states. This led to considerable effort in reconstructing the network from multivariate data. This reconstruction problem is ill-posed for large networks, leading to the reconstruction of false network structures. In this talk, I will present an approach that uses the network dynamics’ statistical properties to ensure the exact reconstruction of weakly coupled sparse networks. Moreover, this approach exhibits robustness against noise. I will illustrate its reconstruction power using experimental multivariate time series data obtained from optoelectronic networks. </details> |
 | Oct 02 | Sabina Haque | University of Michigan Ann Arbor| Graph-theoretic and algebraic geometric approaches to biochemical reaction networks | <details> Under mass-action kinetics, systems of biochemical reactions are modeled by chemical reaction networks (CRNs), a class of graphs that gives rise to polynomial dynamical systems. Approaches in this field include chemical reaction network theory and the more recent linear framework. In this talk, I will focus primarily on the linear framework, a graph-theoretic approach to timescale separation in biochemical systems. I will discuss a graph-theoretic construction within the framework that mimics what would happen if a single parameter in a graph is taken to infinity, producing what we call an asymptotic graph. I consider how properties of the asymptotic graph, such as its steady states, serve as an appropriate representation for a linear framework graph in this limit. I also speculate on some extensions of this construction beyond the scope of the linear framework to parameter identifiability and the steady state varieties of CRNs, suggesting areas for future work at the intersection of graph theory, algebraic geometry, and dynamical systems. </details> |
-| Sep 25 | Cerene Rathilal | University of Kwa-Zulu Natal | On frames and the Peano compactification | <details> This talk will provide an introduction to pointfree topology and have a focus on some recent work on compactifications of frames. In [Curtis (1980): Hyperspaces of Noncompact Metric Spaces], Curtis introduced the concept of a locally non-separating remainder in order to study the hyperspace of a non-compact space $X$. Using the property of a locally non-separating remainder, Curtis established the conditions under which a Peano compactification of a connected space $X$ would exist. In this talk, we will present the analog of the concept of locally non-separating sets, in frames. We will discuss properties of sublocales, after which we define a locally non-separating sublocale and conclude by providing a generalisation for a special case of Curtis’s result. </details> |
+| Sep 25 | Cerene Rathilal | University of Kwa-Zulu Natal | On frames and the Peano compactification | <details> This talk will provide an introduction to pointfree topology and have a focus on some recent work on compactifications of frames. In [Curtis (1980): Hyperspaces of Noncompact Metric Spaces], Curtis introduced the concept of a locally non-separating remainder in order to study the hyperspace of a non-compact space $X$. Using the property of a locally non-separating remainder, Curtis established the conditions under which a Peano compactification of a connected space $X$ would exist. In this talk, we will present the analog of the concept of locally non-separating sets, in frames. We will discuss properties of sublocales, after which we define a locally non-separating sublocale and conclude by providing a generalisation for a special case of Curtis’s result. </details> | -->
