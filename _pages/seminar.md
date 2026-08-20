@@ -1,4 +1,3 @@
-
 ---
 permalink: /seminar/
 layout: null
