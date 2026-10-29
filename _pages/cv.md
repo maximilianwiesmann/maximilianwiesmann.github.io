@@ -34,7 +34,7 @@ Teaching
 
 Work experience
 ======
-* 2021: Quantum Science Summer Intern
+* 2022: Quantum Science Summer Intern
   * Riverlane, Cambridge, UK
   * Research in Quantum Error Correction Codes
 
