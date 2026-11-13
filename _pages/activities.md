@@ -10,15 +10,19 @@ author_profile: true
 
 Upcoming Activities
 ======
-* Aug 10 - Sep 18 2026: [Dive into Research: Combinatorics in Algebraic Statistics and Game Theory](https://sites.google.com/view/aidamaraj/dresdendir){:target="_blank"}, Dresden
-* Sep 01-04 2026: [Albatross 2026](https://albatross-2026.sciencesconf.org/){:target="_blank"}, Paris
 * Mar 8-12 2027: [Joint Annual Meeting of GAMM and DMV](https://jahrestagung.gamm.org/joint-annual-meeting-2027/joint-annual-meeting/){:target="_blank"}, Ulm
+* Mar 15-28 2027: [Complex Saddles](https://scgp.stonybrook.edu/archives/47167){:target="_blank"}, Simons Center for Geometry and Physics, Stony Brook
+* Mar 28 - Apr 9 2027: [Metric Algebraic Geometry Going Global](https://icerm.brown.edu/program/semester_program/sp-s27){:target="_blank"}, ICERM, Providence
 * May 24-27 2027: [Algebraic Varieties and Electronic Structure](https://www.ipam.ucla.edu/programs/workshops/workshop-iv-algebraic-varieties-and-electronic-structure/?tab=overview){:target="_blank"}, IPAM Los Angeles
 
 
 
 Past Activities
 ======
+* Oct 26-27 2026: [Singular Learning Theory Days](https://plan.events.mpg.de/event/783/){:target="_blank"}, MPI CBG, Dresden (**coorganiser**)
+* Oct 21-23 2026: [Positive Geometry beyond Physics](https://www.mis.mpg.de/events/series/positive-geometry-beyond-physics){:target="_blank"}, MPI MiS, Leipzig
+* Sep 01-04 2026: [Albatross 2026](https://albatross-2026.sciencesconf.org/){:target="_blank"}, Paris
+* Aug 10 - Sep 18 2026: [Dive into Research: Combinatorics in Algebraic Statistics and Game Theory](https://sites.google.com/view/aidamaraj/dresdendir){:target="_blank"}, Dresden
 * Jun 22-26 2026: [Analysis of Algorithms (AofA) 2026](https://aofa2026.info/){:target="_blank"}, München 
 * Jun 09-11 2026: Lecture series ["An Invitation to Analytic Combinatorics"](https://www.mis.mpg.de/events/series/an-invitation-to-analytic-combinatorics){:target="_blank"}, MPI MiS Leipzig (**coorganiser**)
 * Mar 16-20 2026: [https://sites.google.com/view/trolocsym/home](https://sites.google.com/view/trolocsym/home){:target="_blank"}, Universität Bielefeld
@@ -69,6 +73,7 @@ Past Activities
 
 Talks
 ======
+* Sep 01-04 2026: Arrangements and Likelihood, [Albatross 2026](https://albatross-2026.sciencesconf.org/){:target="_blank"}, Sorbonne, Paris
 * Jun 26 2026: Lee-Yang phenomena in edge-coloured graph counting, [Analysis of Algorithms 2026](https://aofa2026.info/){:target="_blank"}, LMU München
 * May 12 2026: Lee-Yang limit curves in edge-coloured graph counting, Forschungsseminar "Algebra und Theoretische Mathematik", TU Chemnitz
 * Mar 31 2026: Lee-Yang phenomena in edge-coloured graph counting, Nonlinear Algebra Seminar, MPI MiS Leipzig
