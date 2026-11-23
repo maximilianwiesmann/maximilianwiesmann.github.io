@@ -21,16 +21,6 @@ Education
   * Thesis: ["Stable pair invariants after Pandharipande-Thomas"](/files/bachelor_thesis.pdf){:target="_blank"}, supervised by Daniel Huybrechts
 
 
-Teaching
-======
-* Winter term 2020/21: Tutor
-  * Lineare Algebra 1
-  * Mathematisches Institut Universität Bonn
-
-* Winter term 2019/20: Tutor
-  * Grundzüge der Mathematik
-  * Mathematisches Institut Universität Bonn
-
 
 Work experience
 ======
