@@ -21,12 +21,12 @@ The schedule including descriptions of seminars can be downloaded [here](/files/
 Past teaching
 =============
 
-* Aug-Sep 2026: Mentor for Dive Into Research ``Combinatorics in Algebraic Statistics and Game Theory'', MPI CBG Dresden
+* Aug-Sep 2026: Mentor for Dive Into Research "Combinatorics in Algebraic Statistics and Game Theory", MPI CBG Dresden
 
-* Jun-Jul 2025: Teaching assistant for the SLMath Summer School ``New Perspectives on Discriminants and Applications'', MPI MiS Leipzig
+* Jun-Jul 2025: Teaching assistant for the SLMath Summer School "New Perspectives on Discriminants and Applications", MPI MiS Leipzig
 
-* May 2025: Mentor for the Algebraic Statistics group in the ``Workshop on the Applications of Commutative Algebra'', Fields Institute Toronto
+* May 2025: Mentor for the Algebraic Statistics group in the "Workshop on the Applications of Commutative Algebra", Fields Institute Toronto
 
-* Winter term 2020/21: Tutor for ``Lineare Algebra 1'' at the Mathematical Institute of the University of Bonn
+* Winter term 2020/21: Tutor for "Lineare Algebra 1" at the Mathematical Institute of the University of Bonn
 
-* Winter term 2019/20: Tutor for ``Grundzüge der Mathematik'' at the Mathematical Institute of the University of Bonn
+* Winter term 2019/20: Tutor for "Grundzüge der Mathematik" at the Mathematical Institute of the University of Bonn
